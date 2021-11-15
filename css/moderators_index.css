@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'default';
+    font-family: 'FORTNITE BATTLEFEST';
     src: url("https://cdn.roblerom.games/fonts/default.ttf") format('truetype');
     font-style: normal;
     font-weight: normal;
@@ -8,7 +8,7 @@
 body {
     background-color: #36393f;
     color: #d6d7d9;
-    font-family: default;
+    font-family: FORTNITE BATTLEFEST;
 }
 
 .top {
