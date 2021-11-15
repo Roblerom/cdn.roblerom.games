@@ -5,10 +5,14 @@
     font-weight: normal;
 }
 
+.markdown-body {
+    font-family: FORTNITE BATTLEFEST;
+}
+
 body {
     background-color: #36393f;
     color: #d6d7d9;
-    font-family: FORTNITE BATTLEFEST !important;
+    /* font-family: FORTNITE BATTLEFEST !important; */
 }
 
 .top {
